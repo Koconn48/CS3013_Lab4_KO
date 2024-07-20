@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parked Car Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_mark_location_button">Im parked here</string>
+    <string name="location_permission_rationale_title">Location permission</string>
+    <string name="location_permission_rationale_message">We need your permission to find your current position</string>
+</resources>
